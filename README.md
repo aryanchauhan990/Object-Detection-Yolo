@@ -19,3 +19,6 @@ Used YOLOv3 Objection Detection Architecture for detection of Pictures
    ![Screenshot (11)](https://user-images.githubusercontent.com/54737469/184343173-1d837bc3-e0c7-4329-9903-167b8b7d82fe.png)
 
    ![Screenshot (12)](https://user-images.githubusercontent.com/54737469/184343249-c3ef74a1-e674-4d5d-aad9-061e4fbc9d75.png)
+   
+   ![Screenshot (13)](https://user-images.githubusercontent.com/54737469/184343533-dae6bd15-f250-4e6e-ba3d-8cf7747746f8.png)
+
